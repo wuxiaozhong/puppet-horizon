@@ -1,2 +1,2 @@
-puppet-horizon
-==============
+OpenStack Dashboard
+
